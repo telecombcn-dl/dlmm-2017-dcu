@@ -1,23 +1,9 @@
 # Insight@DCU Machine Learning Workshop
-### Insight @ Dublin City University (April 27-28, 2017)
+### Insight @ Dublin City University Glasnevin Campus, Nursing Building H23 (April 27-28, 2017)
 
 Deep learning technologies are at the core of the current revolution in artificial intelligence for multimedia data analysis. The convergence of big annotated data and affordable GPU hardware has allowed the training of neural networks for data analysis tasks which had been addressed until now with hand-crafted features. Architectures such as convolutional neural networks, recurrent neural networks and Q-nets for reinforcement learning have shaped a brand new scenario in signal processing. This course will cover the basic principles and applications of deep learning to computer vision problems, such as image classification, object detection or text captioning.
 
-## Course Instructors
 
-| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![AmaiaSalvador][AmaiaSalvador-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Amaia Salvador (AS)][AmaiaSalvador-web] | [Eva Mohedano (EM)][EvaMohedano-web]  | [Kevin McGuinness (KM)][KevinMcGuinness-web]     |
-
-[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
-[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-[EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
-[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
-
-[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
-[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
-[EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
-[KevinMcGuinness-photo]: img/instructors/Kevin160x160.jpg "Kevin McGuinness"
 
 
 ## Organizers
@@ -36,13 +22,51 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
 
-## Lecture Slides and Videos
+## Keynotes
 
-| Topic                     | Speaker |       Slideshare                 | 
+| Speaker                   | Institution                                   |       Slides                 | 
+| ------------------------- |:----------------------------------------------:|:--------------------------------:|
+| Prof. Alan F. Smeaton     | Insight Centre for Data Analytics (DCU)      | [Slides][alan-slides]      |
+| Dr. Adam Bermingham       | Zalando                                       | [Slides][adam-slides]            |
+
+
+## Spotlights
+
+| Speaker                   | Institution                                   |       Slides                 | 
+| ------------------------- |:----------------------------------------------:|:--------------------------------:|
+| Dr. Kevin McGuinness      | Insight Centre for Data Analytics (DCU)      | [Learning where to look][kevin-slides]      |
+| Rory Timlin               | Accenture                                       |            |
+| Prof. Xavier Giro-i-Nieto  | Techincal University of Catalonia (UPC)      | [One Perceptron to Rule them All][xavi-slides]      |
+| Dr. Alessandra Sala       |  Nokia Bell Labs                                       |             |
+| Dr. Deepak Ajwani          | Nokia Bell Labs                                       |             |
+| Dr. Brian MacNamee        | Insight Centre for Data Analytics (UCD)               |            |
+
+[kevin-slides]: 
+[xavi-slides]: https://www.slideshare.net/xavigiro/once-perceptron-to-rule-them-all-deep-learning-for-multimedia
+
+
+## Lectures
+
+| ![Kevin McGuinness][KevinMcGuinness-photo] | ![Eva Mohedano][EvaMohedano-photo]   | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![AmaiaSalvador][AmaiaSalvador-photo]  
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Kevin McGuinness (KM)][KevinMcGuinness-web] | [Eva Mohedano (EM)][EvaMohedano-web] 
+| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Amaia Salvador (AS)][AmaiaSalvador-web] |  
+
+[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
+[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
+[EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
+[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
+
+[XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
+[EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
+[KevinMcGuinness-photo]: img/instructors/Kevin160x160.jpg "Kevin McGuinness"
+
+| Topic                     | Speaker |       Slides                | 
 | ------------------------- |:-------:|:--------------------------------:|
-| D1L1 The Perceptron       | XG      | [Slides][perceptron-slides]      |
-| D1L2 Classification       | EM      | [Slides][deep-slides]            |
-| D1L3 Visualization        | AS      | [Slides][visualization-slides]   |
+| D1L01 The Perceptron       | XG      | [Slides][perceptron-slides]      |
+| D1L02 Classification       | EM      | [Slides][deep-slides]            |
+| D1L03 Visualization        | AS      | [Slides][visualization-slides]   |
 
 
 [welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
