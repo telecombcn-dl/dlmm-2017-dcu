@@ -72,6 +72,18 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D1L04 Training              | KM      | [Slides][training-slides]      |
 | D1L05 Visualization        | AS      | [Slides][visualization-slides]   |
 | D1L06 Optimization          | KM      | [Slides][optimization-slides]      |
+| D2L01 Unsupervised       | KM      |      |
+| D2L02 Architectures       | XG      |            |
+| D2L03 Generative | KM      |       |
+| D2L04 Transfer learning              | KM      |      |
+| D2L05 Image retrieval       | EM      |   |
+| D2L06 Segmentation          | AS      |      |
+| D2L07 Recurrent       | KM      |      |
+| D2L08 Audio & Vision       | AS      |            |
+| D2L09 Machine translation | XG      |       |
+| D2L10 Language & Vision              | XG      |      |
+| D2L11 Attention       | AS      |   |
+| D2L12 Closing          | XG      |      |
 
 [perceptron-slides]: https://www.slideshare.net/xavigiro/the-perceptron-d1l1-insightdcu-machine-learning-workshop-2017
 [deep-slides]: https://www.slideshare.net/xavigiro/deep-neural-networks-d1l2-insightdcu-machine-learning-workshop-2017
