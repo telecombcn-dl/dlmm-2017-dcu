@@ -24,21 +24,25 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 | Speaker                   | Institution                                   |       Slides                 | 
 | ------------------------- |:----------------------------------------------:|:--------------------------------:|
-| Prof. Alan F. Smeaton     | Insight Centre for Data Analytics (DCU)      | [Machine Learning Overview][alan-slides]      |
-| Dr. Adam Bermingham       | Zalando                                       |             |
+| [Prof. Alan F. Smeaton][alan-web]     | [Insight Centre for Data Analytics (DCU)][insight-web]      | [Machine Learning Overview][alan-slides]      |
+| [Dr. Adam Bermingham][adam-web]       | [Zalando][zalando]                                       |             |
 
+[adam-web]: https://www.linkedin.com/in/adambermingham/?ppe=1
+[zalando]: http://www.zalando.com/
+
+[alan-web]: http://www.computing.dcu.ie/~asmeaton/
 [alan-slides]: https://www.slideshare.net/xavigiro/machine-learning-overview-how-did-we-get-here
 
 ## Spotlights
 
 | Speaker                   | Institution                                   |       Slides                 | 
 | ------------------------- |:----------------------------------------------:|:--------------------------------:|
-| Dr. Kevin McGuinness      | Insight Centre for Data Analytics (DCU)      | [Learning where to look][kevin-slides]      |
+| [Dr. Kevin McGuinness][KevinMcGuinness-web]      | [Insight Centre for Data Analytics (DCU)][insight-web]      | [Learning where to look][kevin-slides]      |
 | Rory Timlin               | Accenture                                       |            |
-| Prof. Xavier Giro-i-Nieto  | Techincal University of Catalonia (UPC)      | [One Perceptron to Rule them All][xavi-slides]      |
+| [Prof. Xavier Giro-i-Nieto][XavierGiro-web]  | Techincal University of Catalonia (UPC)      | [One Perceptron to Rule them All][xavi-slides]      |
 | Dr. Alessandra Sala       |  Nokia Bell Labs                                       |             |
 | Dr. Deepak Ajwani          | Nokia Bell Labs                                       |             |
-| Dr. Brian MacNamee        | Insight Centre for Data Analytics (UCD)               |            |
+| Dr. Brian MacNamee        | [Insight Centre for Data Analytics (UCD)][insight-web]               |            |
 
 [kevin-slides]: https://www.slideshare.net/xavigiro/learning-where-to-look-focus-and-attention-in-deep-vision
 [xavi-slides]: https://www.slideshare.net/xavigiro/once-perceptron-to-rule-them-all-deep-learning-for-multimedia
