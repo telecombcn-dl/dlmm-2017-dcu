@@ -1,17 +1,4 @@
-# dlmm-2017-dcu
-Insight Machine Learning Workshop
-
-
----
-layout: page
-title:
-permalink: /
-feature-img: "img/heading_950x200.png"
-hide: true
----
-
-# Machine Learning Workshop
-
+# Insight@DCU Machine Learning Workshop
 ### Insight @ Dublin City University (April 27-28, 2017)
 
 Deep learning technologies are at the core of the current revolution in artificial intelligence for multimedia data analysis. The convergence of big annotated data and affordable GPU hardware has allowed the training of neural networks for data analysis tasks which had been addressed until now with hand-crafted features. Architectures such as convolutional neural networks, recurrent neural networks and Q-nets for reinforcement learning have shaped a brand new scenario in signal processing. This course will cover the basic principles and applications of deep learning to computer vision problems, such as image classification, object detection or text captioning.
@@ -48,6 +35,60 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-upc]: img/logos/upc.jpg "Universitat Politecnica de Catalunya"
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
+
+## Lecture Slides and Videos
+
+| Topic                     | Speaker |       Slideshare                 | 
+| ------------------------- |:-------:|:--------------------------------:|
+| D1L1 The Perceptron       | XG      | [Slides][perceptron-slides]      |
+| D1L2 Classification       | EM      | [Slides][deep-slides]            |
+| D1L3 Visualization        | AS      | [Slides][visualization-slides]   |
+
+
+[welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
+[classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
+[deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016
+[backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
+[backprop-video]: https://www.youtube.com/watch?v=jg8Hb4VMJg8
+[training-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-training-upc-2016
+[frameworks-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-software-frameworks-upc-2016
+[frameworks-video]: https://www.youtube.com/watch?v=_VODQgCOBL8
+
+[memory-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-memory-usage-and-computational-considerations-upc-2016
+[memory-video]: https://youtu.be/Hqtg7fznlnM
+[augmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-data-augmentation-upc-2016
+[visualization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-visualization-upc-2016
+[visualization-video]: https://youtu.be/YQvTxkPV8LQ
+[imagenet-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-imagenet-challenge-upc-2016
+[transfer-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-transfer-learning-and-domain-adaptation-upc-2016
+[transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
+[recurrent-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-recurrent-neural-networks-upc-2016
+[recurrent-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
+
+[unsupervised-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-unsupervised-learning-upc-2016
+[unsupervised-video]: https://www.youtube.com/watch?v=5fxj0R4U2F4
+[saliency-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-saliency-prediction-upc-2016
+[optimization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-optimization-upc-2016
+[object-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-object-detection-upc-2016
+[object-video]: https://www.youtube.com/watch?v=VuJu0t4mYKM
+[face-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-face-detection-and-recognition-upc-2016
+[face-video]: https://www.youtube.com/watch?v=uKYoyIwD42Y
+[retrieval-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-image-retrieval-upc-2016
+[retrieval-video]: https://www.youtube.com/watch?v=tsGhPsZiexQ
+
+[generative-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-generative-models-and-adversarial-training-upc-2016
+[segmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-segmentation-upc-2016
+[segmentation-video]: https://www.youtube.com/watch?v=_aTTlkZ0kTo
+[language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
+[language-video]: https://www.youtube.com/watch?v=IkJkD_hefik
+[video-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-video-analytics-upc-2016
+[video-video]: https://www.youtube.com/watch?v=2ALNzI90ysA
+[medical-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-medical-imaging-upc-2016 
+[medical-video]: https://www.youtube.com/watch?v=3gzIilFAmmY
+[attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
+[attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
+
+[closing-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-closing-upc-2016
 
 
 ## Previous and similar editions from the instructors
