@@ -26,9 +26,10 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 | Speaker                   | Institution                                   |       Slides                 | 
 | ------------------------- |:----------------------------------------------:|:--------------------------------:|
-| Prof. Alan F. Smeaton     | Insight Centre for Data Analytics (DCU)      | [Slides][alan-slides]      |
-| Dr. Adam Bermingham       | Zalando                                       | [Slides][adam-slides]            |
+| Prof. Alan F. Smeaton     | Insight Centre for Data Analytics (DCU)      | [Machine Learning Overview][alan-slides]      |
+| Dr. Adam Bermingham       | Zalando                                       |             |
 
+[alan-slides]: https://www.slideshare.net/xavigiro/machine-learning-overview-how-did-we-get-here
 
 ## Spotlights
 
