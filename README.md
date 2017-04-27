@@ -65,14 +65,13 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D1L01 The Perceptron       | XG      | [Slides][perceptron-slides]      |
 | D1L02 Classification       | EM      | [Slides][deep-slides]            |
 | D1L03 Image Classification | XG      | [Slides][imagenet-slides]      |
-| D1L04 Training              | KM      | [Slides][imagenet-slides]      |
+| D1L04 Training              | KM      | [Slides][training-slides]      |
 | D1L05 Visualization        | AS      | [Slides][visualization-slides]   |
 | D1L06 Optimization          | KM      | [Slides][optimization-slides]      |
 
 [perceptron-slides]: https://www.slideshare.net/xavigiro/the-perceptron-d1l1-insightdcu-machine-learning-workshop-2017
-[classification-slides]: https://www.slideshare.net/xavigiro/deep-neural-networks-d1l2-insightdcu-machine-learning-workshop-2017
+[deep-slides]: https://www.slideshare.net/xavigiro/deep-neural-networks-d1l2-insightdcu-machine-learning-workshop-2017
 [imagenet-slides]: https://www.slideshare.net/xavigiro/image-classification-on-imagenet-d1l3-insightdcu-machine-learning-workshop-2017
-
 [training-slides]: https://www.slideshare.net/xavigiro/training-deep-networks-with-backprop-d1l4-insightdcu-machine-learning-workshop-2017
 [visualization-slides]: https://www.slideshare.net/xavigiro/d1l5-visualization-d1l2-insightdcu-machine-learning-workshop-2017
 [optimization-slides]: https://www.slideshare.net/xavigiro/optimizing-deep-networks-d1l6-insightdcu-machine-learning-workshop-2017
@@ -107,9 +106,9 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Acknowledgements
 
-|:--|:-:|
-| This course is co-funded by the Erasmus+ programme from the European Union | ![logo-erasmus] |
+This course is co-funded by the Erasmus+ programme from the European Union:
 
+![logo-erasmus]
 
 [logo-erasmus]: img/logos/erasmus.jpg "Erasmus logo"
 
