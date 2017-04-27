@@ -41,7 +41,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | Dr. Deepak Ajwani          | Nokia Bell Labs                                       |             |
 | Dr. Brian MacNamee        | Insight Centre for Data Analytics (UCD)               |            |
 
-[kevin-slides]: 
+[kevin-slides]: https://www.slideshare.net/xavigiro/learning-where-to-look-focus-and-attention-in-deep-vision
 [xavi-slides]: https://www.slideshare.net/xavigiro/once-perceptron-to-rule-them-all-deep-learning-for-multimedia
 
 
