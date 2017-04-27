@@ -4,13 +4,11 @@
 Deep learning technologies are at the core of the current revolution in artificial intelligence for multimedia data analysis. The convergence of big annotated data and affordable GPU hardware has allowed the training of neural networks for data analysis tasks which had been addressed until now with hand-crafted features. Architectures such as convolutional neural networks, recurrent neural networks and Q-nets for reinforcement learning have shaped a brand new scenario in signal processing. This course will cover the basic principles and applications of deep learning to computer vision problems, such as image classification, object detection or text captioning.
 
 
-
-
 ## Organizers
 
-| ![logo-gpi] | ![logo-upc] | ![logo-insight] | ![logo-dcu] |
-|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
-|  [UPC Image Processing Group](gpi-web) | [Universitat Politecnica de Catalunya (UPC)](upc-web) | [Insight Centre for Data Analytics](insight-web) | [Dublin City University (DCU)](dcu-web) |
+| ![logo-insight] | ![logo-dcu] | ![logo-gpi] | ![logo-upc] |
+|:------------:|:------------:|:------------:|:------------:|
+| [Insight Centre for Data Analytics](insight-web) | [Dublin City University (DCU)](dcu-web) |  [UPC Image Processing Group](gpi-web) | [Universitat Politecnica de Catalunya (UPC)](upc-web) |
 
 [upc-web]: http://www.upc.edu/?set_language=en
 [gpi-web]: https://imatge.upc.edu/web/
@@ -49,7 +47,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 ## Lectures
 
 | ![Kevin McGuinness][KevinMcGuinness-photo] | ![Eva Mohedano][EvaMohedano-photo]   | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![AmaiaSalvador][AmaiaSalvador-photo]  
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 | [Kevin McGuinness (KM)][KevinMcGuinness-web] | [Eva Mohedano (EM)][EvaMohedano-web] 
 | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Amaia Salvador (AS)][AmaiaSalvador-web] |  
 
