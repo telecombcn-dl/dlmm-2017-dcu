@@ -20,6 +20,11 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
 
+## Chair
+[Prof. Noel E. O'Connor][noel-web]
+
+[noel-web]: https://www.insight-centre.org/users/noel-oconnor
+
 ## Keynotes
 
 | Speaker                   | Institution                                   |       Slides                 | 
