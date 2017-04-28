@@ -77,9 +77,9 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D1L04 Training              | KM      | [Slides][training-slides]      |
 | D1L05 Visualization        | AS      | [Slides][visualization-slides]   |
 | D1L06 Optimization          | KM      | [Slides][optimization-slides]      |
-| D2L01 Unsupervised       | KM      |      |
-| D2L02 Architectures       | XG      |            |
-| D2L03 Generative | KM      |       |
+| D2L01 Unsupervised       | KM      |  [Slides][unsupervised-slides]    |
+| D2L02 Architectures       | XG      |  [Slides][architectures-slides]          |
+| D2L03 Generative | KM      |  [Slides][generative-slides]     |
 | D2L04 Transfer learning              | KM      |      |
 | D2L05 Image retrieval       | EM      |   |
 | D2L06 Segmentation          | AS      |      |
@@ -97,6 +97,9 @@ Deep learning technologies are at the core of the current revolution in artifici
 [visualization-slides]: https://www.slideshare.net/xavigiro/d1l5-visualization-d1l2-insightdcu-machine-learning-workshop-2017
 [optimization-slides]: https://www.slideshare.net/xavigiro/optimizing-deep-networks-d1l6-insightdcu-machine-learning-workshop-2017
 
+[unsupervised-slides]: https://www.slideshare.net/xavigiro/unsupervised-deep-learning-d2l1-insightdcu-machine-learning-workshop-2017
+[architectures-slides]: https://www.slideshare.net/xavigiro/deep-learning-architectures-d2l2-insightdcu-machine-learning-workshop-2017
+[generative-slides]: https://www.slideshare.net/xavigiro/generative-models-and-adversarial-training-d2l3-insightdcu-machine-learning-workshop-2017
 
 ## Previous and similar editions from the instructors
 
