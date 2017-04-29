@@ -79,16 +79,19 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D1L06 Optimization          | KM      | [Slides][optimization-slides]      |
 | D2L01 Unsupervised       | KM      |  [Slides][unsupervised-slides]    |
 | D2L02 Architectures       | XG      |  [Slides][architectures-slides]          |
-| D2L03 Generative | KM      |  [Slides][generative-slides]     |
-| D2L04 Transfer learning              | KM      |      |
-| D2L05 Image retrieval       | EM      |   |
-| D2L06 Segmentation          | AS      |      |
-| D2L07 Recurrent       | KM      |      |
-| D2L08 Audio & Vision       | AS      |            |
-| D2L09 Machine translation | XG      |       |
-| D2L10 Language & Vision              | XG      |      |
-| D2L11 Attention       | AS      |   |
-| D2L12 Closing          | XG      |      |
+| D2L03 Generative            | KM      |  [Slides][generative-slides]     |
+| D2L04 Transfer learning     | KM      | [Slides][transfer-slides]     |
+| D2L05 Object Detection     | AS      | [Slides][object-slides]     |
+| D2L06 Image retrieval       | EM      | [Slides][retrieval-slides]  |
+| D2L07 Segmentation          | AS      |  [Slides][segmentation-slides]    |
+| D2L08 Recurrent       | KM      | [Slides][recurrent-slides]     |
+| D2L09 Audio & Vision       | AS      | [Slides][audio-slides]           |
+| D2L10 Machine translation | XG      | [Slides][translation-slides]      |
+| D2L11 Language & Vision              | XG      |  [Slides][language-slides]    |
+| D2L12 Attention Models      | AS      |  [Slides][attention-slides] |
+| D2L13 Closing          | XG      | [Slides][closing-slides]     |
+
+
 
 [perceptron-slides]: https://www.slideshare.net/xavigiro/the-perceptron-d1l1-insightdcu-machine-learning-workshop-2017
 [deep-slides]: https://www.slideshare.net/xavigiro/deep-neural-networks-d1l2-insightdcu-machine-learning-workshop-2017
@@ -100,6 +103,16 @@ Deep learning technologies are at the core of the current revolution in artifici
 [unsupervised-slides]: https://www.slideshare.net/xavigiro/unsupervised-deep-learning-d2l1-insightdcu-machine-learning-workshop-2017
 [architectures-slides]: https://www.slideshare.net/xavigiro/deep-learning-architectures-d2l2-insightdcu-machine-learning-workshop-2017
 [generative-slides]: https://www.slideshare.net/xavigiro/generative-models-and-adversarial-training-d2l3-insightdcu-machine-learning-workshop-2017
+[transfer-slides]: https://www.slideshare.net/xavigiro/transfer-learning-d2l4-insightdcu-machine-learning-workshop-2017
+[object-slides]: https://www.slideshare.net/xavigiro/object-detection-d2l5-insightdcu-machine-learning-workshop-2017
+[retrieval-slides]: https://www.slideshare.net/xavigiro/contentbased-image-retrieval-d2l6-insightdcu-machine-learning-workshop-2017
+[segmentation-slides]: https://www.slideshare.net/xavigiro/object-segmentation-d2l7-insightdcu-machine-learning-workshop-2017
+[recurrent-slides]: https://www.slideshare.net/xavigiro/recurrent-neural-networks-d2l8-insightdcu-machine-learning-workshop-2017
+[audio-slides]: https://www.slideshare.net/xavigiro/audio-and-vision-d2l9-insightdcu-machine-learning-workshop-2017
+[translation-slides]: https://www.slideshare.net/xavigiro/neural-machine-translation-d2l10-insightdcu-machine-learning-workshop-2017
+[language-slides]: https://www.slideshare.net/xavigiro/language-and-vision-d2l11-insightdcu-machine-learning-workshop-2017
+[attention-slides]: https://www.slideshare.net/xavigiro/attention-models-d2l12-insightdcu-machine-learning-workshop-2017
+[closing-slides]: https://www.slideshare.net/xavigiro/closing-d2l13-insightdcu-machine-learning-workshop-2017
 
 ## Previous and similar editions from the instructors
 
