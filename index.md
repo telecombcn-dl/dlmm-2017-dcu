@@ -1,4 +1,4 @@
-# Insight@DCU Machine Learning Workshop
+# Insight@DCU Machine Learning Workshop [#InsightDL2017](https://twitter.com/search?q=%23insightdl2017&src=tyah)
 ### Dublin City University Glasnevin Campus, Nursing Building H23 (April 27-28, 2017)
 
 Deep learning technologies are at the core of the current revolution in artificial intelligence for multimedia data analysis. The convergence of big annotated data and affordable GPU hardware has allowed the training of neural networks for data analysis tasks which had been addressed until now with hand-crafted features. Architectures such as convolutional neural networks, recurrent neural networks and Q-nets for reinforcement learning have shaped a brand new scenario in signal processing. This course will cover the basic principles and applications of deep learning to computer vision problems, such as image classification, object detection or text captioning.
