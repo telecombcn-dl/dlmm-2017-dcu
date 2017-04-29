@@ -69,27 +69,21 @@ Deep learning technologies are at the core of the current revolution in artifici
 [EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
 [KevinMcGuinness-photo]: img/instructors/Kevin160x160.jpg "Kevin McGuinness"
 
-| Topic                     | Speaker |       Slides                | 
-| ------------------------- |:-------:|:--------------------------------:|
-| D1L01 The Perceptron       | XG      | [Slides][perceptron-slides]      |
-| D1L02 Classification       | EM      | [Slides][deep-slides]            |
-| D1L03 Image Classification | XG      | [Slides][imagenet-slides]      |
-| D1L04 Training              | KM      | [Slides][training-slides]      |
-| D1L05 Visualization        | AS      | [Slides][visualization-slides]   |
-| D1L06 Optimization          | KM      | [Slides][optimization-slides]      |
-| D2L01 Unsupervised       | KM      |  [Slides][unsupervised-slides]    |
-| D2L02 Architectures       | XG      |  [Slides][architectures-slides]          |
-| D2L03 Generative            | KM      |  [Slides][generative-slides]     |
-| D2L04 Transfer learning     | KM      | [Slides][transfer-slides]     |
-| D2L05 Object Detection     | AS      | [Slides][object-slides]     |
-| D2L06 Image retrieval       | EM      | [Slides][retrieval-slides]  |
-| D2L07 Segmentation          | AS      |  [Slides][segmentation-slides]    |
-| D2L08 Recurrent       | KM      | [Slides][recurrent-slides]     |
-| D2L09 Audio & Vision       | AS      | [Slides][audio-slides]           |
-| D2L10 Machine translation | XG      | [Slides][translation-slides]      |
-| D2L11 Language & Vision              | XG      |  [Slides][language-slides]    |
-| D2L12 Attention Models      | AS      |  [Slides][attention-slides] |
-| D2L13 Closing          | XG      | [Slides][closing-slides]     |
+| Topic               | Speaker |       Slides                | Topic                     | Speaker |       Slides                | 
+| ------------------- |:-------:|:---------------------------:| ------------------------- |:-------:|:--------------------------------:|
+| D1L01 The Perceptron       | XG      | [Slides][perceptron-slides]      | D2L01 Unsupervised       | KM      |  [Slides][unsupervised-slides]    |
+| D1L02 Classification       | EM      | [Slides][deep-slides]| D2L02 Architectures       | XG      |  [Slides][architectures-slides]          |
+| D1L03 Image Classification | XG      | [Slides][imagenet-slides]   | D2L03 Generative            | KM      |  [Slides][generative-slides]     |
+| D1L04 Training              | KM      | [Slides][training-slides]  | D2L04 Transfer learning     | KM      | [Slides][transfer-slides]     |
+| D1L05 Visualization        | AS      | [Slides][visualization-slides] | D2L05 Object Detection     | AS      | [Slides][object-slides]     |
+| D1L06 Optimization          | KM      | [Slides][optimization-slides]  | D2L06 Image retrieval       | EM      | [Slides][retrieval-slides]  |
+| | | | D2L07 Segmentation          | AS      |  [Slides][segmentation-slides]    |
+| | | | D2L08 Recurrent       | KM      | [Slides][recurrent-slides]     |
+| | | | D2L09 Audio & Vision       | AS      | [Slides][audio-slides]           |
+| | | | D2L10 Machine translation | XG      | [Slides][translation-slides]      |
+| | | | D2L11 Language & Vision              | XG      |  [Slides][language-slides]    |
+| | | | D2L12 Attention Models      | AS      |  [Slides][attention-slides] |
+| | | | D2L13 Closing          | XG      | [Slides][closing-slides]     |
 
 
 
