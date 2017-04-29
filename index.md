@@ -47,11 +47,11 @@ Deep learning technologies are at the core of the current revolution in artifici
 | [Prof. Xavier Giro-i-Nieto][XavierGiro-web]  | Techincal University of Catalonia (UPC)      | [One Perceptron to Rule them All][xavi-slides]      |
 | Dr. Alessandra Sala       |  Nokia Bell Labs                                       |             |
 | Dr. Deepak Ajwani          | Nokia Bell Labs                                       |             |
-| Dr. Brian MacNamee        | [Insight Centre for Data Analytics (UCD)][insight-web]               |            |
+| Dr. Brian MacNamee        | [Insight Centre for Data Analytics (UCD)][insight-web]               | [Deep Learning in Deep Space][brian-slides]           |
 
 [kevin-slides]: https://www.slideshare.net/xavigiro/learning-where-to-look-focus-and-attention-in-deep-vision
 [xavi-slides]: https://www.slideshare.net/xavigiro/once-perceptron-to-rule-them-all-deep-learning-for-multimedia
-
+[brian-slides]: https://www.slideshare.net/xavigiro/deep-learning-in-deep-space
 
 ## Lectures
 
