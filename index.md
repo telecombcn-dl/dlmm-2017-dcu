@@ -108,6 +108,13 @@ Deep learning technologies are at the core of the current revolution in artifici
 [attention-slides]: https://www.slideshare.net/xavigiro/attention-models-d2l12-insightdcu-machine-learning-workshop-2017
 [closing-slides]: https://www.slideshare.net/xavigiro/closing-d2l13-insightdcu-machine-learning-workshop-2017
 
+
+## Pictures
+
+Check our [photo album on Facebook](https://www.facebook.com/pg/ProfessorXavi/photos/?tab=album&album_id=1486337048095242).
+
+![Slideshow](https://github.com/telecombcn-dl/dlmm-2017-dcu/blob/master/img/dlmm-2017-dcu-slideshow.gif?raw=true)
+
 ## Previous and similar editions from the instructors
 
 * [Deep Learning for Computer Vision][DLCV2016]. UPC TelecomBCN 2016.
