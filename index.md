@@ -117,12 +117,15 @@ Check our [photo album on Facebook](https://www.facebook.com/pg/ProfessorXavi/ph
 
 ## Previous and similar editions from the instructors
 
+* Amaia Salvador and Santiago Pascual, [Applied Deep Learning in Keras and TensorFlow][Persontyle2017]. Persontyle 2017.
 * [Deep Learning for Computer Vision][DLCV2016]. UPC TelecomBCN 2016.
 * [Deep Learning for Speech and Language][DLSL2017]. UPC TelecomBCN 2017.
 * Xavier Giro-i-Nieto, "Deep learning for computer vision: [Image], [Object], [Videos] Analytics and [Beyond]". LaSalle URL. May 2016.
 
 [DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
 [DLSL2017]: https://telecombcn-dl.github.io/2017-dlsl/
+[Persontyle2017]: https://github.com/telecombcn-dl/2017-persontyle
+
 
 [Image]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016
 [Object]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-24-object-analytics-lasalle-2016
