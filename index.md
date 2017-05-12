@@ -78,7 +78,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | D1L05 Visualization        | AS      | [Slides][visualization-slides] | D2L05 Object Detection     | AS      | [Slides][object-slides]     |
 | D1L06 Optimization          | KM      | [Slides][optimization-slides]  | D2L06 Image retrieval       | EM      | [Slides][retrieval-slides]  |
 | | | | D2L07 Segmentation          | AS      |  [Slides][segmentation-slides]    |
-| | | | D2L08 Recurrent       | KM      | [Slides][recurrent-slides]     |
+| | | | D2L08 Recurrent       | XG      | [Slides][recurrent-slides]     |
 | | | | D2L09 Audio & Vision       | AS      | [Slides][audio-slides]           |
 | | | | D2L10 Machine translation | XG      | [Slides][translation-slides]      |
 | | | | D2L11 Language & Vision              | XG      |  [Slides][language-slides]    |
