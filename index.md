@@ -72,7 +72,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 | Topic               | Speaker |       Slides                | Topic                     | Speaker |       Slides                | 
 | ------------------- |:-------:|:---------------------------:| ------------------------- |:-------:|:--------------------------------:|
 | D1L01 The Perceptron       | XG      | [Slides][perceptron-slides]      | D2L01 Unsupervised       | KM      |  [Slides][unsupervised-slides]    |
-| D1L02 Classification       | EM      | [Slides][deep-slides]| D2L02 Architectures       | XG      |  [Slides][architectures-slides]          |
+| D1L02 Deep Neural Networks       | EM      | [Slides][deep-slides]| D2L02 Architectures       | XG      |  [Slides][architectures-slides]          |
 | D1L03 Image Classification | XG      | [Slides][imagenet-slides]   | D2L03 Generative            | KM      |  [Slides][generative-slides]     |
 | D1L04 Training              | KM      | [Slides][training-slides]  | D2L04 Transfer learning     | KM      | [Slides][transfer-slides]     |
 | D1L05 Visualization        | AS      | [Slides][visualization-slides] | D2L05 Object Detection     | AS      | [Slides][object-slides]     |
